@@ -1,4 +1,4 @@
-const data = require('./data/products.json');
+const data = require('.././data/products.json');
 
 
 export default function handler(req, res) {
